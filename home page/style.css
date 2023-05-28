@@ -57,3 +57,39 @@ header {
 #lupa {
   color: #3f6d69;
 }
+
+.main {
+  height: 664px;
+  background-color: #49827dcc;
+  position: relative;
+}
+
+.desna {
+  position: absolute;
+  width: 500px;
+  margin-left: 70px;
+  margin-top: 128px;
+  margin-left: 185px;
+}
+
+.desna h1 {
+  font-size: 50px;
+  color: #ffffff;
+}
+
+.desna p {
+  color: #ffffff;
+}
+
+.pozadinska {
+  background-color: #427d78d6;
+  padding: 7px;
+}
+
+.prvibtn {
+  color: #3f6d69;
+  border: none;
+  width: 110px;
+  height: 30px;
+  border-radius: 3px;
+}
