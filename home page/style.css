@@ -39,6 +39,21 @@ header {
   height: 105px;
   background-color: #ffffff;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
+}
+
+.linkovi {
+  display: flex;
+  flex-direction: row;
+  gap: 31px;
+}
+
+.linkovi a {
+  text-decoration: none;
+  color: #3f6d69;
+}
+
+#lupa {
+  color: #3f6d69;
 }
