@@ -93,3 +93,62 @@ header {
   height: 30px;
   border-radius: 3px;
 }
+
+.main2 {
+  display: flex;
+  justify-content: space-around;
+  height: 950px;
+}
+
+.tekst {
+  width: 400px;
+  margin-right: 100px;
+  margin-top: 140px;
+  font-size: x-large;
+}
+
+.tekst h1 {
+  color: #3f6d69;
+}
+
+.tekst p {
+  color: #3f6d69;
+}
+
+.drugibtn {
+  background-color: #3f6d69;
+  border: none;
+  color: #ffffff;
+  width: 100px;
+  height: 40px;
+}
+
+.slike {
+  width: 800px;
+  height: 200px;
+}
+
+.prva {
+  width: 419px;
+  height: 355px;
+  margin-top: 140px;
+}
+
+.druga {
+  width: 274px;
+  height: 412px;
+  margin-left: 44px;
+}
+
+.treca {
+  width: 201px;
+  height: 323px;
+  margin-top: 29px;
+}
+
+.cetvrta {
+  width: 498px;
+  height: 278px;
+  margin-bottom: 49px;
+  margin-left: 40px;
+}
