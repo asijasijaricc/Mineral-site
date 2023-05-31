@@ -180,3 +180,35 @@ header {
   align-items: center;
   margin-left: 560px;
 }
+
+.naslov1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+}
+
+.cards img {
+  width: 418px;
+  height: 381px;
+}
+
+.tekst1 {
+  width: 340px;
+}
+
+.cardBtn {
+  width: 197px;
+  height: 58px;
+  background-color: #3f6d69;
+  border: none;
+  color: #ffffff;
+  font-size: larger;
+}
