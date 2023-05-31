@@ -152,3 +152,31 @@ header {
   margin-bottom: 49px;
   margin-left: 40px;
 }
+
+.naslov {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.naslov h1 {
+  color: #3f6d69;
+  font-weight: bolder;
+  font-size: 50px;
+}
+
+.leva img {
+  width: 451px;
+  height: 385px;
+  margin-left: 79px;
+}
+
+.prviTek {
+  width: 451px;
+  height: 385px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 560px;
+}
