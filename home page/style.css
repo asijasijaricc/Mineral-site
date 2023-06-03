@@ -170,24 +170,6 @@ header {
   font-size: 50px;
 }
 
-.naslov1 {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.naslov1 h1 {
-  color: #3f6d69;
-  font-weight: bolder;
-  font-size: 50px;
-}
-
-.naslov1 p {
-  color: #3f6d69;
-  font-size: 20px;
-}
-
 .kartice {
   display: flex;
   justify-content: center;
@@ -235,6 +217,57 @@ header {
   border-radius: 4px;
 }
 
+.nzm {
+  height: 700px;
+}
+
+.nzm img {
+  position: absolute;
+  z-index: 5;
+  margin-top: 70px;
+  margin-left: 42px;
+}
+
+.prvaLinija {
+  margin-top: 230px;
+  margin-right: 160px;
+}
+
+.drugaLinija {
+  margin-top: 230px;
+}
+
+.unutrasnji {
+  position: relative;
+  margin-left: 319px;
+  width: 994px;
+  height: 562px;
+  background-color: #3f6d69;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+
+.naslov1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 80px;
+}
+
+.naslov1 h1 {
+  color: #3f6d69;
+  font-weight: bolder;
+  font-size: 50px;
+}
+
+.naslov1 p {
+  color: #3f6d69;
+  font-size: 20px;
+}
+
 .cards {
   display: flex;
   justify-content: center;
@@ -260,4 +293,76 @@ header {
   color: #ffffff;
   font-size: large;
   border-radius: 5px;
+}
+
+.naslovNeki {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 130px;
+  color: #3f6d69;
+  margin-bottom: 130px;
+}
+
+.lokacije {
+  background-color: #3f6d69;
+  height: 500px;
+  margin-left: 60px;
+  margin-right: 60px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.seljaci {
+  width: 287px;
+  height: 250px;
+  padding: 30px;
+  background-color: #ffffff;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.registracija {
+  background-color: #3f6d69;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+}
+
+.registracija input {
+  margin-left: 15px;
+  background-color: #3f6d69;
+  color: #d4d1d1;
+  border: solid 1px #ffffff;
+  font-size: x-large;
+  padding: 5px;
+}
+
+.registracija button {
+  width: 100px;
+  height: 44px;
+  font-size: larger;
+  border: none;
+}
+
+.registracija h1 {
+  margin-left: 80px;
+}
+
+footer {
+  background-color: #3f3f3f;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  height: 300px;
+  color: #ffffff;
+}
+
+#ikona {
+  background-color: #3f6d69;
+  border-radius: 50%;
+  width: 25px;
+  font-size: x-large;
 }
