@@ -145,6 +145,57 @@ header {
   margin-top: 61px;
 }
 
+.naslovcic3 {
+  color: #ffffff;
+  background-color: #3f6d69;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.seljanke2 {
+  height: 1800px;
+  margin-left: 270px;
+  margin-top: 100px;
+}
+
+.stepenice1 {
+  position: absolute;
+  width: 200px;
+  height: 324px;
+}
+
+.stepenice2 {
+  position: absolute;
+  width: 307px;
+  height: 415px;
+  margin-left: 30px;
+  margin-top: 43px;
+}
+
+.stepenice3 {
+  position: absolute;
+  width: 448px;
+  height: 462px;
+  margin-left: 364px;
+}
+
+.stepenice4 {
+  position: absolute;
+  width: 394px;
+  height: 525px;
+  margin-top: 350px;
+  right: 1067px;
+}
+
+.stepenice5 {
+  position: absolute;
+  width: 783px;
+  height: 394px;
+  margin-top: 483px;
+  margin-left: 28px;
+}
+
 .registracija {
   background-color: #3f6d69;
   height: 270px;
