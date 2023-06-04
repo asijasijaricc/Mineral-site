@@ -239,6 +239,31 @@ header {
   margin-top: 500px;
 }
 
+.nmg {
+  color: #ffffff;
+  background-color: #3f6d69;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dve {
+  height: 700px;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+
+.idiot1 {
+  width: 787px;
+  height: 526px;
+}
+
+.idiot2 {
+  width: 427px;
+  height: 568px;
+  margin-left: 62px;
+}
+
 .registracija {
   background-color: #3f6d69;
   height: 270px;
