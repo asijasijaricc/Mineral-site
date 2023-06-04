@@ -154,7 +154,7 @@ header {
 }
 
 .seljanke2 {
-  height: 1800px;
+  height: 1000px;
   margin-left: 270px;
   margin-top: 100px;
 }
@@ -194,6 +194,49 @@ header {
   height: 394px;
   margin-top: 483px;
   margin-left: 28px;
+}
+
+.nekinaslov {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  background-color: #3f6d69;
+}
+
+.spomenik {
+  height: 1200px;
+  margin-left: 250px;
+  margin-top: 120px;
+}
+
+.spomenik1 {
+  position: absolute;
+  width: 424px;
+  height: 318px;
+  margin-left: 100px;
+}
+
+.spomenik2 {
+  position: absolute;
+  width: 649px;
+  height: 453px;
+  margin-left: 600px;
+}
+
+.spomenik3 {
+  position: absolute;
+  width: 522px;
+  height: 650px;
+  margin-top: 370px;
+}
+
+.spomenik4 {
+  position: absolute;
+  width: 649px;
+  height: 521px;
+  margin-left: 600px;
+  margin-top: 500px;
 }
 
 .registracija {
