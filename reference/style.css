@@ -78,7 +78,9 @@ header {
 
 .slike {
   width: 1400px;
-  margin: 200px;
+  margin-left: 250px;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 .prvas {
@@ -103,6 +105,44 @@ header {
   height: 566px;
   margin-left: 69px;
   margin-top: 72px;
+}
+
+.naslovcic2 {
+  color: #ffffff;
+  background-color: #3f6d69;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.seljanke {
+  width: 1400px;
+  margin-left: 250px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.prvaslika {
+  width: 363px;
+  height: 471px;
+}
+
+.drugaslika {
+  width: 808px;
+  height: 411px;
+  margin-left: 60px;
+}
+
+.trecaslika {
+  width: 670px;
+  height: 299px;
+}
+
+.cetvrtaslika {
+  width: 545px;
+  height: 299px;
+  margin-left: 65px;
+  margin-top: 61px;
 }
 
 .registracija {
