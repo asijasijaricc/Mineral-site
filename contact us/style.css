@@ -1,0 +1,226 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.pred {
+  height: 71px;
+  background-color: #3f6d69;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.broj {
+  color: #ffffff;
+  font-size: x-large;
+}
+
+.drop {
+  display: flex;
+  justify-content: space-between;
+  gap: 7px;
+  font-size: x-large;
+  color: #ffffff;
+}
+
+.vl {
+  border-left: 1px solid #ffffff;
+  height: 30px;
+}
+
+header {
+  height: 105px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.linkovi {
+  display: flex;
+  flex-direction: row;
+  gap: 31px;
+}
+
+.linkovi a {
+  text-decoration: none;
+  color: #3f6d69;
+}
+
+#lupa {
+  color: #3f6d69;
+}
+
+.naslovcic {
+  height: 600px;
+  background-image: url(./Rectangle\ 36.png);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+
+.ikon {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.ikartice1 {
+  height: 200px;
+  margin-top: 150px;
+  margin-left: 90px;
+}
+
+.seljanka1 {
+  position: absolute;
+  margin-right: 1530px;
+  margin-bottom: 47px;
+}
+
+.seljanka2 {
+  position: absolute;
+  margin-right: 430px;
+  margin-bottom: 40px;
+}
+
+.seljanka3 {
+  position: absolute;
+  margin-left: 730px;
+  margin-bottom: 43px;
+}
+
+#ikn {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #3f6d69;
+  font-size: 50px;
+  width: 100px;
+  height: 100px;
+  border-radius: 5px;
+}
+
+.nmgovo {
+  color: #3f6d69;
+  margin-left: 350px;
+  margin-bottom: 30px;
+}
+
+.nmgovo hr {
+  width: 70px;
+}
+
+.forme {
+  width: 1200px;
+  margin-left: 350px;
+  margin-bottom: 100px;
+}
+
+#tekst {
+  width: 490px;
+  height: 40px;
+  border-radius: 10px;
+  border: 1px solid #359a91;
+  color: #359a91;
+}
+
+#email {
+  width: 490px;
+  height: 40px;
+  border-radius: 10px;
+  margin-left: 30px;
+  border: 1px solid #359a91;
+  color: #359a91;
+}
+
+#boks {
+  border: 1px solid #359a91;
+}
+
+.lokacije {
+  height: 500px;
+  margin-left: 60px;
+  margin-right: 60px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.seljaci {
+  width: 287px;
+  height: 250px;
+  padding: 30px;
+  background-color: #ffffff;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.seljaci h1 {
+  color: #359a91;
+}
+
+.kancelarije {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* margin-bottom: 30px; */
+}
+
+.kancelarije h1 {
+  color: #359a91;
+}
+
+.registracija {
+  background-color: #3f6d69;
+  height: 270px;
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+}
+
+.registracija input {
+  margin-left: 15px;
+  background-color: #3f6d69;
+  color: #d4d1d1;
+  border: solid 1px #ffffff;
+  font-size: x-large;
+  padding: 5px;
+}
+
+.registracija button {
+  width: 100px;
+  height: 44px;
+  font-size: larger;
+  border: none;
+}
+
+.registracija h1 {
+  margin-left: 80px;
+  margin-top: 60px;
+}
+
+footer {
+  background-color: #8d8d8d;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  height: 300px;
+  color: #ffffff;
+}
+
+#ikona {
+  background-color: #3f6d69;
+  border-radius: 50%;
+  width: 25px;
+  font-size: x-large;
+}

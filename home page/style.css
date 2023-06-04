@@ -322,6 +322,10 @@ header {
   box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 }
 
+.seljaci h1 {
+  color: #3f6d69;
+}
+
 .registracija {
   background-color: #3f6d69;
   height: 200px;
