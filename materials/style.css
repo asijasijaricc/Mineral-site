@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.pred {
+  height: 71px;
+  background-color: #3f6d69;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.broj {
+  color: #ffffff;
+  font-size: x-large;
+}
+
+.drop {
+  display: flex;
+  justify-content: space-between;
+  gap: 7px;
+  font-size: x-large;
+  color: #ffffff;
+}
+
+.vl {
+  border-left: 1px solid #ffffff;
+  height: 30px;
+}
+
+header {
+  height: 105px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.linkovi {
+  display: flex;
+  flex-direction: row;
+  gap: 31px;
+}
+
+.linkovi a {
+  text-decoration: none;
+  color: #3f6d69;
+}
+
+#lupa {
+  color: #3f6d69;
+}
+
+.pocetak {
+  background-image: url(./Rectangle\ 36.png);
+  height: 550px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+
+.registracija {
+  background-color: #3f6d69;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+}
+
+.registracija input {
+  margin-left: 15px;
+  background-color: #3f6d69;
+  color: #d4d1d1;
+  border: solid 1px #ffffff;
+  font-size: x-large;
+  padding: 5px;
+}
+
+.registracija button {
+  width: 100px;
+  height: 44px;
+  font-size: larger;
+  border: none;
+}
+
+.registracija h1 {
+  margin-left: 80px;
+}
+
+footer {
+  background-color: #8d8d8d;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  height: 300px;
+  color: #ffffff;
+}
+
+#ikona {
+  background-color: #3f6d69;
+  border-radius: 50%;
+  width: 25px;
+  font-size: x-large;
+}
