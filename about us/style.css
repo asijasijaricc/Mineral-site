@@ -59,12 +59,19 @@ header {
 }
 
 .pocetna {
-  height: 500px;
+  height: 664px;
   display: flex;
   justify-content: center;
   align-items: center;
   color: #ffffff;
-  background-image: url(./Rectangle\ 36.png);
+  background-image: linear-gradient(
+      rgba(73, 130, 125, 0.5),
+      rgba(73, 130, 125, 0.3),
+      rgba(73, 130, 125, 0.3),
+      rgba(73, 130, 125, 0.1)
+    ),
+    url(./image\ 77.png);
+  background-size: cover;
 }
 
 .nemoguvise {

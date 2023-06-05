@@ -60,8 +60,15 @@ header {
 
 .main {
   height: 664px;
-  background-color: #49827dcc;
   position: relative;
+  background-image: linear-gradient(
+      rgba(73, 130, 125, 0.5),
+      rgba(73, 130, 125, 0.3),
+      rgba(73, 130, 125, 0.3),
+      rgba(73, 130, 125, 0.1)
+    ),
+    url(./pozadina.png);
+  background-size: cover;
 }
 
 .desna {
