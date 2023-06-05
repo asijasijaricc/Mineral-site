@@ -60,11 +60,18 @@ header {
 
 .naslovcic {
   height: 664px;
-  background-image: url(./Rectangle\ 36.png);
   display: flex;
   justify-content: center;
   align-items: center;
   color: #ffffff;
+  background-image: linear-gradient(
+      rgba(73, 130, 125, 0.5),
+      rgba(73, 130, 125, 0.3),
+      rgba(73, 130, 125, 0.3),
+      rgba(73, 130, 125, 0.1)
+    ),
+    url(./list.jpg);
+  background-size: cover;
 }
 
 .ikon {
